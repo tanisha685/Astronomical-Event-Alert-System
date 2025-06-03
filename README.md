@@ -1,6 +1,6 @@
 <h1>Astronomical Event Alert System</h1>
 
-![Screenshot 2025-06-03 163510](https://github.com/user-attachments/assets/0992e3f2-4011-4168-bf46-6fdb86efb9b3)
+![Screenshot 2025-06-03 163510](https://github.com/user-attachments/assets/fd623717-1456-4a1f-93bb-c7d642bfbc54)
 
 <h4>The project follows a client-server model:</h4>
 <ul>
